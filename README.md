@@ -1,25 +1,18 @@
-## Всем привет! Меня зовут Каролина ✌️
+## Hi! I’m Karolina — a frontend developer ✌️
 
-### 🌞 Обо мне:
+### 🌞 A few words about me:
 
-Я люблю создавать новое, для меня важно делать продукт красивым и комфортным. Люблю, когда приложение сделано с заботой о пользователе.
-Для меня разработка - творческий и медитативный процесс, где моментально виден результат. Словно собираешь пазл или конструктор!
+- Development for me is an art and meditation, where you can see the result immediately. It’s like a constructor or a puzzle!
+- I know by heart that development requires patience, time and consistency. I believe the most suitable conception about diving into dev is “A journey of a thousand miles begins with a single step”. So I always learn something new, step by step, every day.
+- I’m studying a 10-month course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/). It gave me basic knowledge about the web and taught me how to learn next by myself. Now I’m working on my Diploma project.
+- My general goal is to make useful, pretty and comfortable products. I love when products are made with care and attention to users.
+- My goal for the nearest future is to become a frontend developer in a company that connects with my values. After some time, I’d like to share my experience with junior developers and become a mentor.
+- I love popular science, my cat, and yoga. I hope that someday I can fly to retreat in India!
 
-### 🎯 Мои цели:
-
-- Нести ценность клиентам и обществу
-- Разрабатывать крутые и доступные интерфейсы
-- Работать в классной команде профессионалов
-- Писать чистый и элегантный код
-
-🎓 Помимо основного обучения в Я.Практикум я сейчас изучаю курсы по JavaScript и React.js на Udemy. Читаю "Грокаем алгоритмы" и решаю задачки на Сodewars.
-
-🧘 Люблю научпоп, своего кота и йогу. Мечтаю выбраться на ретрит в Индию.
-
-### 📫 Написать мне
+### 📫 Contact me
 lipnitskaite@gmail.com
 
-## 🚀 Мой стек
+### 🚀 Tools that I know and commonly use
 [<img align="left" alt="HTML5_logo" width="26px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" />](https://developer.mozilla.org/ru/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3_logo" width="26px" src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />](https://www.w3schools.com/css/)
 [<img align="left" alt="SASS_logo" width="26px" src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" />](https://sass-lang.com/)
@@ -29,7 +22,13 @@ lipnitskaite@gmail.com
 
 <br />
 
-## ⚡ Моя статистика
+### 🚀 Tools that I want to learn in the nearest future
+[<img align="left" alt="TypeScript_logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />](https://www.typescriptlang.org/)
+[<img align="left" alt="VueJS_logo" width="26px" src="https://ru.vuejs.org/images/logo.png" />](https://ru.vuejs.org/index.html)
+
+<br />
+
+### ⚡ My statistics
 <p>
   <img align="center" alt="lipnitskaite's github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=lipnitskaite&hide=issues,contribs&show_icons=true&theme=swift" />
   <img align="center" alt="lipnitskaite's language card" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipnitskaite&layout=compact&theme=swift" />
