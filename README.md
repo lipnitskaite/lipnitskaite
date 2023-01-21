@@ -2,8 +2,6 @@
 
 ### 🌞 A few words about me:
 
-- Development for me is an art and meditation, where you can see the result immediately. It’s like a constructor or a puzzle!
-- I know by heart that development requires patience, time and consistency. I believe the most suitable conception about diving into dev is “A journey of a thousand miles begins with a single step”. So I always learn something new, step by step, every day.
 - I’ve completed a 12-month course [Web-Developer by Yandex Practicum](https://practicum.yandex.ru/web/). It gave me basic knowledge about the web and taught me how to learn next by myself. Now I continue gaining experience as a freelance developer.
 - My general goal is to create meaningful and user-friendly products.
 - My goal for the nearest future is to become a frontend developer in a company that connects with my values. After some time, I’d like to share my experience with junior developers and become a mentor.
