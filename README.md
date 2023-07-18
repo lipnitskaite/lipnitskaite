@@ -29,5 +29,5 @@ lipnitskaite@gmail.com
 ### ⚡ My statistics
 <p>
   <img align="center" alt="lipnitskaite's github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=lipnitskaite&hide=issues,contribs&show_icons=true&theme=swift" />
-  <img align="center" alt="lipnitskaite's language card" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipnitskaite&layout=compact&theme=swift" />
+  <img align="center" alt="lipnitskaite's language card" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipnitskaite&layout=compact&langs_count=10&theme=swift" />
 <p/>
